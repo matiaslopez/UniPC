@@ -55,7 +55,7 @@ La codificación en todos los casos se puede representar como 8 bits de código 
 
 - Al iniciar la máquina el PC (program counter) siempre se inicializa en 0x00.
 - El operando de los saltos debe ser una etiqueta (no se aceptan inmediatos)  ¿Por qué?
-- Las etiquetas deben definirse con dos puntos (“:”). Ejemplo salto:
+- Las etiquetas deben definirse con dos puntos (“:”).
 
 ## El ensamblador
 
