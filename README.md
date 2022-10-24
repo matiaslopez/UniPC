@@ -1,5 +1,7 @@
 # UniPC
 
+El presente proyecto es una máquina sencilla uniciclo implementada en el simulador [LogiSim](http://www.cburch.com/logisim/). 
+
 ## Características
 
 - Computadora de 8 bits con Arquitectura Von Neumann
